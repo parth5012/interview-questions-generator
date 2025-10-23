@@ -1,8 +1,11 @@
 langchain
 pypdf
+pypdf2
 langchain-google-genai
 langchain-community
 langchain-core
+langchain-nomic
 fastapi
-python-dotnev
+python-dotenv
 tiktoken
+faiss-cpu
