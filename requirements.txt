@@ -1,0 +1,8 @@
+langchain
+pypdf
+langchain-google-genai
+langchain-community
+langchain-core
+fastapi
+python-dotnev
+tiktoken
